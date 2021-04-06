@@ -5,5 +5,4 @@ I will be adding more to this repository as we learn about more features.
 Here is an edit.
 
 ## Author
-Me!
-here is more.
+Mike Farkas

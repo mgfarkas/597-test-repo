@@ -1,4 +1,9 @@
-# 597-test-repo
+# IS597-test-repo
 My test repository for 597.
 
 I will be adding more to this repository as we learn about more features.
+Here is an edit.
+
+## Author
+Me!
+here is more.
